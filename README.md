@@ -1,2 +1,3 @@
 # Arkanoid
-//It's console arkanoid.Hope you'll like it)))
+It's console game arkanoid.
+To play use arrow keys
